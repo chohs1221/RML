@@ -1,0 +1,12 @@
+etc
+Lib
+Include
+Scripts
+share
+.ipynb_checkpoints
+pyvenv.cfg
+
+# datasets
+IMDb_Reviews.csv
+train_data.csv
+test_data.csv
